@@ -1,5 +1,18 @@
 [
   {
+    "version": 3.5,
+    "versionString": "3.5.0",
+    "correcciones": [
+      "Icono de ajustes"
+    ],
+    "agregados": [
+      "Panel de clasificación en la tabla"
+    ],
+    "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v3.5.0.apk",
+    "fecha": "2025-10-18T19:37:37.189Z",
+    "tamaño": "14.43 MB"
+  },
+  {
     "version": 2.5,
     "versionString": "2.5.0",
     "correcciones": [
@@ -10,6 +23,6 @@
     ],
     "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v2.5.0.apk",
     "fecha": "2025-10-18T18:12:41.291Z",
-    "tamaño": "14.41 MB"
+    "tamaÃ±o": "14.41 MB"
   }
 ]
