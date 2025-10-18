@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "version": 2,
+    "versionString": "2.0.0",
+    "correcciones": [
+      "se arreglo el error de la app cerrando"
+    ],
+    "agregados": [
+      "instalación interna para las actualizaciones"
+    ],
+    "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v2.0.0.apk",
+    "fecha": "2025-10-18T18:02:43.178Z",
+    "tamaño": "14.41 MB"
+  }
+]
