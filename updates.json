@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "version": 1.05,
+    "versionString": "1.0.5",
+    "correcciones": [
+      "test"
+    ],
+    "agregados": [
+      "test"
+    ],
+    "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v1.0.5.apk",
+    "fecha": "2025-10-18T17:15:55.692Z",
+    "tamaño": "14.42 MB"
+  }
+]
