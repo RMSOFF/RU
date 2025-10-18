@@ -1,5 +1,18 @@
 [
   {
+    "version": 2,
+    "versionString": "2.0.0",
+    "correcciones": [
+      "Ninguna"
+    ],
+    "agregados": [
+      "Instalación Interna de actualizaciones"
+    ],
+    "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v2.0.0.apk",
+    "fecha": "2025-10-18T17:40:51.613Z",
+    "tamaño": "14.41 MB"
+  },
+  {
     "version": 1.25,
     "versionString": "1.2.5",
     "correcciones": [
@@ -10,6 +23,6 @@
     ],
     "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v1.2.5.apk",
     "fecha": "2025-10-18T17:29:45.979Z",
-    "tamaño": "14.41 MB"
+    "tamaÃ±o": "14.41 MB"
   }
 ]
