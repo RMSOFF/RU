@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "version": 2,
+    "correcciones": [
+      "a"
+    ],
+    "agregados": [
+      "a"
+    ],
+    "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v2.apk",
+    "fecha": "2025-10-18T16:25:50.822Z",
+    "tamaño": "0.87 MB"
+  }
+]
