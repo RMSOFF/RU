@@ -1,22 +1,38 @@
 [
   {
+    "version": 6,
+    "versionString": "6.0.0",
+    "correcciones": [
+      "-los puntajes de la tabla principal, pesta�a de tabla y en la botella ahora se muestran mas cerca a tiempo real (ya no es necesario reiniciar la app para ver cambios)",
+      "-se elimino definitivamente el bot�n \"Subir en la pesta�a \"Botella\""
+    ],
+    "agregados": [
+      "-optimizaci�n",
+      "-correcci�n de colores",
+      "-ayuda"
+    ],
+    "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v6.0.0.apk",
+    "fecha": "2025-11-25T05:41:48.680Z",
+    "tama�o": "14.43 MB"
+  },
+  {
     "version": 4.5,
     "versionString": "4.5.0",
     "correcciones": [
       "--"
     ],
     "agregados": [
-      "-Eliminaci�n definitiva a el bot�n \"Subir\""
+      "-Eliminación definitiva a el botón \"Subir\""
     ],
     "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v4.5.0.apk",
     "fecha": "2025-11-25T05:07:35.057Z",
-    "tama�o": "14.42 MB"
+    "tamaño": "14.42 MB"
   },
   {
     "version": 4,
     "versionString": "4.0.0",
     "correcciones": [
-      "-eliminacion de lboton Subir en pestaña ",
+      "-eliminacion de lboton Subir en pestaÃ±a ",
       "\"Botella\" para evitar trampas"
     ],
     "agregados": [
@@ -24,7 +40,7 @@
     ],
     "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v4.0.0.apk",
     "fecha": "2025-11-25T03:08:51.266Z",
-    "tamaño": "14.43 MB"
+    "tamaÃ±o": "14.43 MB"
   },
   {
     "version": 3.5,
@@ -33,11 +49,11 @@
       "Icono de ajustes"
     ],
     "agregados": [
-      "Panel de clasificaciÃ³n en la tabla"
+      "Panel de clasificaciÃƒÂ³n en la tabla"
     ],
     "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v3.5.0.apk",
     "fecha": "2025-10-18T19:37:37.189Z",
-    "tamaÃ±o": "14.43 MB"
+    "tamaÃƒÂ±o": "14.43 MB"
   },
   {
     "version": 2.5,
@@ -50,6 +66,6 @@
     ],
     "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v2.5.0.apk",
     "fecha": "2025-10-18T18:12:41.291Z",
-    "tamaÃƒÂ±o": "14.41 MB"
+    "tamaÃƒÆ’Ã‚Â±o": "14.41 MB"
   }
 ]
