@@ -1,9 +1,22 @@
 [
   {
+    "version": 4.5,
+    "versionString": "4.5.0",
+    "correcciones": [
+      "--"
+    ],
+    "agregados": [
+      "-Eliminaci�n definitiva a el bot�n \"Subir\""
+    ],
+    "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v4.5.0.apk",
+    "fecha": "2025-11-25T05:07:35.057Z",
+    "tama�o": "14.42 MB"
+  },
+  {
     "version": 4,
     "versionString": "4.0.0",
     "correcciones": [
-      "-eliminacion de lboton Subir en pesta�a ",
+      "-eliminacion de lboton Subir en pestaña ",
       "\"Botella\" para evitar trampas"
     ],
     "agregados": [
@@ -11,7 +24,7 @@
     ],
     "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v4.0.0.apk",
     "fecha": "2025-11-25T03:08:51.266Z",
-    "tama�o": "14.43 MB"
+    "tamaño": "14.43 MB"
   },
   {
     "version": 3.5,
@@ -20,11 +33,11 @@
       "Icono de ajustes"
     ],
     "agregados": [
-      "Panel de clasificación en la tabla"
+      "Panel de clasificaciÃ³n en la tabla"
     ],
     "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v3.5.0.apk",
     "fecha": "2025-10-18T19:37:37.189Z",
-    "tamaño": "14.43 MB"
+    "tamaÃ±o": "14.43 MB"
   },
   {
     "version": 2.5,
@@ -37,6 +50,6 @@
     ],
     "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RU/main/apks/app-v2.5.0.apk",
     "fecha": "2025-10-18T18:12:41.291Z",
-    "tamaÃ±o": "14.41 MB"
+    "tamaÃƒÂ±o": "14.41 MB"
   }
 ]
